@@ -6,15 +6,15 @@
 * security standards and certifications, governance and compliance 
 * security roles and responsibilities, culture and awareness raising, and professionalism 
 * recognising security needs across platforms (including Operating Systems, Applications, and Cloud systems)  
-# Risk Assessment 
+# <h3>Risk Assessment</h3>
 * threat, vulnerability and risk concepts 
 * asset valuation and management 
 * risk analysis methodologies 
-# Types of threats 
+# <h3>Types of threats</h3>
 * threat agents and motivations, adversarial thinking 
 * common human and technical attacks, insider threat, malicious code 
 * situational awareness, threat trends and landscape, CERTs 
-# Risk Management 
+# <h3>Risk Management</h3>
 * handling risk and selecting countermeasures/controls to mitigate risk 
 * understanding impacts and consequences 
 * third party management 
